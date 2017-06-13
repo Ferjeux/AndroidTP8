@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidTP8</string>
+    <string name="envoyer">Envoyer</string>
 </resources>
